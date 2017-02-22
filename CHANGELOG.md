@@ -3,6 +3,7 @@
 Changes:
 
 Features:
+ - Added some fruit
 
 Bugfixes:
 
