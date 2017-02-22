@@ -1,5 +1,4 @@
-v1.0.0 (2017-01-01)
+## v1.0.0 (2017-01-01)
 
 Changes:
-
-    - New changelog
+ - New changelog
