@@ -1,11 +1,7 @@
-## v1.1.0 (TBD)
-
-Changes:
+## v1.1.0 (2017-01-15)
 
 Features:
  - Added some fruit
-
-Bugfixes:
 
 ## v1.0.0 (2017-01-01)
 
