@@ -1,3 +1,11 @@
+## v1.2.0 (TDB)
+
+Changes:
+
+Features:
+
+Bugfixes:
+
 ## v1.1.0 (TBD)
 
 Changes:
