@@ -5,4 +5,4 @@ if (banana == orange)
     alert("The world broke.");
 
 if (banana)
-    alert("Yes, it's a banana.");
+    alert("Yes, it's probably a banana.");
